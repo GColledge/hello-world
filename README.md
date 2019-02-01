@@ -1,3 +1,2 @@
-# hello-world
-tutorial repository
-Okay, this makes sense so far. I hope it ends up being useful.
+# Practice
+This is a repo for my personal practice projects.
